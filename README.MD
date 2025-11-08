@@ -7,8 +7,7 @@
 
 # Projeto EBOOK Gerado por I.A.s
 
-- Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+- O objetivo deste projeto é demonstrar a criação de um eBook digital a partir de diferentes ferramentas de IA. Abaixo, encontram-se todos os prompts utilizados no processo.
 
 <a href="https://github.com/lucas-0liveira/IA-Ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
